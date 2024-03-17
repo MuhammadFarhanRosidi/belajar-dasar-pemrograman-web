@@ -34,7 +34,7 @@ The website I've created is a landing page built using HTML, CSS, and JavaScript
 
 ## Demo
 
-![](https://github.com/belajar-dasar-pemrograman-web/demo-landingpage-umptkin.gif)
+![](https://github.com/MuhammadFarhanRosidi/belajar-dasar-pemrograman-web/blob/main/demo-landingpage-umptkin.gif)
 
 
 ## Authors
